@@ -24,7 +24,7 @@ export default function Home() {
           <div className="colum-3 text-black">
             <div>
               <div className="mt-5">
-                <p>Intervalo</p>
+                <p>Intervalo2</p>
               </div>
               
                 <input className="text-center m-2" type="text" min={1} value={valor1} onChange={verValor1}/>
