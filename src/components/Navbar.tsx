@@ -14,7 +14,7 @@ export default function Navbar(){
                         />
                     </div>      
             </div>
-            <div className="col text-center p-3 align-sel-center m-4">
+            <div className="col text-center p-3 align-sel-center d-inline m-4">
                 
                 <Link href={"/"} className="link">Número Aleatório</Link>
 
